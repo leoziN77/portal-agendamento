@@ -1,4 +1,4 @@
-# porta-agendamento-de-consulta
+# agendamento-de-consulta
 Projeto backend criado em PHP e MYSQL.
 
 Este é um projeto com o intuito de ter uma plataforma onde é possível realizar agendamento de consultas, ou até mesmo editar e excluir registro no painel administrativo.
@@ -7,11 +7,16 @@ Este é um projeto com o intuito de ter uma plataforma onde é possível realiza
 
 - **Crie um login**: É possível criar seu próprio login e acessar sua respectiva área.
 
+
+
 - **Editar seus dados**: Após acessar a área do paciente você terá acesso para incluir deus dados como idade, telefone, etc. E ainda a possibilidade de alterar estes dados em uma ocasião futura.
 
 - **Agendar sua consulta**: A possibilidade de escolher o médico e o horário cujo qual você quer agendar sua consulta. Onde todas essas informações são armazenadas no banco de dados. 
 
-- **Acesso admin**: Adicionado um painel admin, onde neste painel é possível editar ou excluir qualquer registro que um paciente possa ter criado. Obviamente respeitando todas as questões de privacidade, ou seja, sua senha não será exposta e é impossível editar como você loga na página. 
+- **Acesso admin**: Adicionado um painel admin, onde neste painel é possível editar ou excluir qualquer registro que um paciente possa ter criado. Obviamente respeitando todas as questões de privacidade, ou seja, sua senha não será exposta e é impossível editar como você loga na página.
+
+![Screenshot_3](https://github.com/leoziN77/portal-agendamento/assets/99442194/eac56c7b-daa1-45e7-8169-00ac25066424)
+![Screenshot_4](https://github.com/leoziN77/portal-agendamento/assets/99442194/6adcd654-1254-4c6e-8500-373992b7d11a)
 
 ## Instruções de Uso
 
@@ -32,10 +37,10 @@ Para executar o servidor, siga estas etapas:
 
 6. Inicie os servidores no XAMPP "apache" e "mysql":
 - **Clique em admin no painel do apache**
-- **Se tudo estiver correto deve executar normalmente  o site"
+- **Se tudo estiver correto deve executar normalmente  o site**
 
-## Imagens do site 
 
-![Screenshot_5](https://github.com/leoziN77/portal-agendamento/assets/99442194/139c35c7-9d3a-4b03-873f-f3ef0cc10949)
+
+
 
 
