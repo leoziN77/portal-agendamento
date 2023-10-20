@@ -36,9 +36,6 @@ Para executar o servidor, siga estas etapas:
 
 ## Imagens do site 
 
-<div align="center">
-<img src="[https://desblogada.files.wordpress.com/2021/05/kaka-cordovil-java-developer-2.gif](https://github.com/leoziN77/portal-agendamento/issues/1#issue-1954697539)https://github.com/leoziN77/portal-agendamento/issues/1#issue-1954697539" width="700px" />
-</div>
-
+![Screenshot_5](https://github.com/leoziN77/portal-agendamento/assets/99442194/139c35c7-9d3a-4b03-873f-f3ef0cc10949)
 
 
