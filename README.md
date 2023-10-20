@@ -27,7 +27,7 @@ Para executar o servidor, siga estas etapas:
 2. Clone este repositório para o seu computador:
 
    ```shell
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/leoziN77/portal-agendamento.git
 
 4. Insira os arquivos clonados na pasta "htdocs" do XAMPP:
 - **cd Xampp\htdocs**
