@@ -7,7 +7,7 @@ Este é um projeto com o intuito de ter uma plataforma onde é possível realiza
 
 - **Crie um login**: É possível criar seu próprio login e acessar sua respectiva área.
 
-
+![Screenshot_6](https://github.com/leoziN77/portal-agendamento/assets/99442194/d810ceb5-f7da-4538-9dd5-b41ec5427857)
 
 - **Editar seus dados**: Após acessar a área do paciente você terá acesso para incluir deus dados como idade, telefone, etc. E ainda a possibilidade de alterar estes dados em uma ocasião futura.
 
