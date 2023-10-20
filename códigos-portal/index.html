@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link rel="shortcut icon" href="Icon.png" type="image/x-icon">
+  <title>Consulta</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-image: linear-gradient(to top, #264C81, #dedede);
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+
+    .card-container {
+      display: flex;
+      justify-content: space-between;
+      width: 800px;
+    }
+
+    .card {
+      width: 300px;
+      height: 600px;
+      border-radius: 10px;
+      overflow: hidden;
+      cursor: pointer;
+      transition: transform 0.5s ease;
+    }
+
+    .card img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
+    .card:hover {
+      transform: scale(1.05);
+    }
+  </style>
+</head>
+
+<body>
+  <div class="card-container">
+    <div class="card" id="paciente-card">
+      <img src="assets/1.png" alt="Imagem 1">
+    </div>
+    <div class="card" id="medico-card">
+      <img src="assets/2.png" alt="Imagem 2">
+    </div>
+  </div>
+
+  <script src="scripts/card.js"></script>
+
+</body>
+
+</html>
