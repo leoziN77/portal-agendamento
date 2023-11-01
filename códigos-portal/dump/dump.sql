@@ -30,5 +30,3 @@ CREATE TABLE consultas (
 
 
 
--- ALTER TABLE users
--- ADD COLUMN first_visit INT(1) DEFAULT 1 NOT NULL;
